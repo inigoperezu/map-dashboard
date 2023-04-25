@@ -1,19 +1,19 @@
 "ccaa_id","name","people_needed"
-"01","Andaluc�a",18.68
-"02","Arag�n",8.96
-"03","Principado de Asturias",11.36
-"04","Islas Baleares",9.29
-"05","Islas Canarias",17.76
-"06","Cantabria",8.17
-"07","Castilla y Le�n",10.19
-"08","Castilla-La Mancha",14.11
-"09","Catalu�a",9.29
-"10","Comunidad Valenciana",12.81
-"11","Extremadura",16.73
-"12","Galicia",11.2
-"13","Comunidad de Madrid",10.18
-"14","Regi�n de Murcia",12.18
-"15","Comunidad Foral de Navarra",8.76
-"16","Pa�s Vasco",8.75
-"17","La Rioja",10.19
-"18","Ceuta y Melilla",23.71
+"01","Andalucía",35
+"02","Aragón",2
+"03","Principado de Asturias",0
+"04","Islas Baleares",1
+"05","Islas Canarias",12
+"06","Cantabria",1
+"07","Castilla y León",11
+"08","Castilla-La Mancha",6
+"09","Cataluña",40
+"10","Comunidad Valenciana",27
+"11","Extremadura",1
+"12","Galicia",15
+"13","Comunidad de Madrid",40
+"14","Región de Murcia",2
+"15","Comunidad Foral de Navarra",1
+"16","País Vasco",7
+"17","La Rioja",1
+"18","Ceuta y Melilla",0
